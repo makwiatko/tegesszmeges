@@ -1,0 +1,19 @@
+body {
+  background-color: Lavender;
+}
+
+h1 {
+  color: RebeccaPurple;
+  margin-left: 20px;
+}
+
+.button {
+  background-color: Lavender;
+  border-color: MediumPurple;
+  color: RebeccaPurple;
+}
+
+.button:hover {
+  background-color: MediumPurple;
+  color: white;
+}

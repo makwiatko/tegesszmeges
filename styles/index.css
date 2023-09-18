@@ -1,0 +1,37 @@
+body {
+  background-color: AliceBlue;
+}
+
+
+h1 {
+  color: CornflowerBlue;
+  margin-left: 20px;
+}
+
+p {
+  color: CornflowerBlue;
+  display: inline-block;
+  font-size: 24px;
+  margin: 0 20px;
+}
+
+.button {
+  background-color: AliceBlue;
+  color: CornflowerBlue; 
+  border: 2px solid CornflowerBlue;
+  border-radius: 12px;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 20px;
+  padding: 10px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: CornflowerBlue;
+  color: white;
+}
